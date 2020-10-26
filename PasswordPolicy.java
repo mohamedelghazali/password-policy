@@ -1,4 +1,4 @@
-package com.devglan.password.policy;
+package com.*****.password.policy;
 
 import java.util.Arrays;
 import java.util.List;
