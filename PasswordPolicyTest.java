@@ -1,4 +1,4 @@
-package com.devglan.password.policy;
+package com.*****.password.policy;
 
 public class PasswordPolicyTest {
 
